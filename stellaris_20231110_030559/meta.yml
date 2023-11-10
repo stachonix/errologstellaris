@@ -1,0 +1,266 @@
+# Crash Information
+AppName: Stellaris 
+AppVersion: 3.9.3 
+SCMBranch: release/3.9.3/develop 
+SCMCommit: 70703330249031dbbc4261d5c88f290c8cf98664 
+SCMTimeStamp: "2023-10-06 14:53:00 +0000" 
+DateTime: "2023-11-10 03:05:59" 
+BuildType: Release 
+Platform: Windows 
+Architecture: 64-bit 
+OperatingSystem: Windows 10 x86_64 
+SystemLanguage: pt 
+CPUModel: AMD Ryzen 5 5600X 6-Core Processor              
+CPUSpeed: 3693 
+CPUPhysicalCores: 6 
+CPULogicalCores: 12 
+SystemMemory: 24489 
+LaunchArguments: --pdx-launcher-session-token 3a7afe9e-e21d-40ed-9d23-5c5f80a248bc --paradox-account-userid 6a37b351-82a0-49f6-9118-a00c9c6269ae -gdpr-compliant  
+
+# Application Specific Data 
+DLC_1: Ancient Relics Story Pack 
+DLC_2: Apocalypse 
+DLC_3: Distant Stars Story Pack 
+DLC_4: Federations 
+DLC_5: First Contact Story Pack 
+DLC_6: Galactic Paragons 
+DLC_7: Horizon Signal 
+DLC_8: Humanoids Species Pack 
+DLC_9: Leviathans Story Pack 
+DLC_10: Megacorp 
+DLC_11: Nemesis 
+DLC_12: Overlord 
+DLC_13: Synthetic Dawn Story Pack 
+DLC_14: Utopia 
+Mod_1: (Merged 3.9) ! Immersive Beautiful Stellaris ! 
+Mod_2: (Merged 3.9) ! The Merger of Rules 3.9 
+Mod_3: (Merged 3.9) !!! Worthy Ascension Perks Patch 
+Mod_4: (Merged 3.9) !!!Universal Resource Patch [2.4+] 
+Mod_5: (Merged 3.9) !!Universal Modifier Patch (3.9.*) 
+Mod_6: (Merged 3.9) *Remastered Human Portraits 
+Mod_7: (Merged 3.9) 36 Building Slots 
+Mod_8: (Merged 3.9) 5 Times Faster Reinforcement Transit 
+Mod_9: (Merged 3.9) AA's Consortiums (3.8) 
+Mod_10: (Merged 3.9) AA's NTZs & DMZs (3.4) 
+Mod_11: (Merged 3.9) Aggressive Crisis Engine 
+Mod_12: (Merged 3.9) Agreements Boost Diplomatic Weight - FunEFork 
+Mod_13: (Merged 3.9) Amazing Space Battles 
+Mod_14: (Merged 3.9) Aquatic Empire Colours 
+Mod_15: (Merged 3.9) Archaeology Story Pack 
+Mod_16: "(Merged 3.9) At War: Better Admiral Experience (3.8.*)" 
+Mod_17: "(Merged 3.9) At War: Defense Platform Longevity(3.8.*)" 
+Mod_18: "(Merged 3.9) At War: Planetary Cannons (3.9.*)" 
+Mod_19: "(Merged 3.9) At War: Planetary Defense Fleets (3.8.*)" 
+Mod_20: "(Merged 3.9) At War: Starbase Improvements (3.8.*)" 
+Mod_21: (Merged 3.9) Banned! (3.7) 
+Mod_22: (Merged 3.9) Basic Ordinary Origins 
+Mod_23: (Merged 3.9) Better Rings 
+Mod_24: (Merged 3.9) Borg Shipset 
+Mod_25: (Merged 3.9) Branch Office Expansion Planner 
+Mod_26: (Merged 3.9) Bypass Adjustments 
+Mod_27: (Merged 3.9) Caitian Shipset 
+Mod_28: (Merged 3.9) Cardassian Shipset 
+Mod_29: (Merged 3.9) Cinematic Camera 
+Mod_30: (Merged 3.9) Cinematic Loading Screens 
+Mod_31: "(Merged 3.9) Civic: Byzantine Bureaucracy - Enhanced" 
+Mod_32: "(Merged 3.9) Civic: Organic Zealots" 
+Mod_33: "(Merged 3.9) Civic: Philosopher King - Enhanced" 
+Mod_34: (Merged 3.9) Civil Wars 
+Mod_35: "(Merged 3.9) Colony Designation: Ecumenopolis Commercial" 
+Mod_36: (Merged 3.9) Colored Ethics Alternate 
+Mod_37: (Merged 3.9) Crisis Manager - Mid-Game Edition (3.8.¢) 
+Mod_38: (Merged 3.9) Cross Border Trade 
+Mod_39: (Merged 3.9) Cybrxkhan's Assortment of Namelists for Stellaris 
+Mod_40: (Merged 3.9) Deassimilate Machines 
+Mod_41: (Merged 3.9) Disable Jump Drives 
+Mod_42: (Merged 3.9) Distant Origin 
+Mod_43: (Merged 3.9) District Overhaul 3 ver 3.7 
+Mod_44: (Merged 3.9) Diverse Rooms 
+Mod_45: (Merged 3.9) Dynamic Difficulty - Ultimate Customization 
+Mod_46: (Merged 3.9) Dynamic Mod Menu [3.8.*] 
+Mod_47: (Merged 3.9) Dynamic Political Events 
+Mod_48: (Merged 3.9) Earth Force Shipset 
+Mod_49: (Merged 3.9) Emblems for Random Empires, Volume 01 
+Mod_50: (Merged 3.9) Emblems for Random Empires, Volume 02 
+Mod_51: (Merged 3.9) Emblems for Random Empires, Volume 03 
+Mod_52: (Merged 3.9) Emblems for Random Empires, Volume 04 
+Mod_53: (Merged 3.9) Emblems for Random Empires, Volume 05 
+Mod_54: (Merged 3.9) Emblems for Random Empires, Volume 06 
+Mod_55: (Merged 3.9) Emblems for Random Empires, Volume 07 
+Mod_56: (Merged 3.9) Emblems for Random Empires, Volume 08 
+Mod_57: (Merged 3.9) Emblems for Random Empires, Volume 09 
+Mod_58: (Merged 3.9) Emblems for Random Empires, Volume 10 
+Mod_59: (Merged 3.9) Emblems for Random Empires, Volume 11 
+Mod_60: (Merged 3.9) Emblems for Random Empires, Volume 12 
+Mod_61: (Merged 3.9) Emblems for Random Empires, Volume 13 
+Mod_62: (Merged 3.9) Emblems for Random Empires, Volume 14 
+Mod_63: (Merged 3.9) Emblems for Random Empires, Volume 15 
+Mod_64: (Merged 3.9) Emblems for Random Empires, Volume 16 
+Mod_65: (Merged 3.9) End Truce & Close Borders 
+Mod_66: "(Merged 3.9) Endless Space 2: Cravers Shipset" 
+Mod_67: "(Merged 3.9) Endless Space 2: Horatio Shipset" 
+Mod_68: "(Merged 3.9) Endless Space 2: Sophon Shipset" 
+Mod_69: "(Merged 3.9) Endless Space 2: Unfallen Shipset" 
+Mod_70: "(Merged 3.9) Endless Space 2: United Empire Shipset" 
+Mod_71: "(Merged 3.9) Endless Space 2:Vodyani Shipset" 
+Mod_72: (Merged 3.9) Ethics and Civics Alternative - FunEFork 
+Mod_73: (Merged 3.9) Even More Origins 
+Mod_74: (Merged 3.9) Expanded Starbases 
+Mod_75: (Merged 3.9) Expanded Stellaris Ascension Perks 3.9 
+Mod_76: (Merged 3.9) Expanded Stellaris Traditions - 3.9 
+Mod_77: (Merged 3.9) Extra Origins (3.9) 
+Mod_78: (Merged 3.9) Fatal Foundations Story Pack [3.9] 
+Mod_79: "(Merged 3.9) Fatherland: Colonial Empires" 
+Mod_80: "(Merged 3.9) Fewer Habitable Planets: 25%" 
+Mod_81: "(Merged 3.9) Fewer Habitable Planets: 25%: Real Space Patch" 
+Mod_82: (Merged 3.9) Fishbowl Robot Head Fix 
+Mod_83: (Merged 3.9) Flags, Emblems and Backgrounds Merged 
+Mod_84: (Merged 3.9) Galactic Bank - FunEFork 
+Mod_85: (Merged 3.9) Gateways Policy/Federation/Imperium 
+Mod_86: (Merged 3.9) Gigastructural Engineering & More (3.9) 
+Mod_87: (Merged 3.9) Government Variety Pack 
+Mod_88: (Merged 3.9) Guilli's Planet Modifiers and Features 
+Mod_89: (Merged 3.9) Guillified Precursor  Story Pack (Compat Patch) 
+Mod_90: (Merged 3.9) Habitat AI colonisation fix 
+Mod_91: (Merged 3.9) Influence Cap+ 
+Mod_92: "(Merged 3.9) Intervene: Help Friendly Nations - FunEFork" 
+Mod_93: (Merged 3.9) Invasion! (3.8) 
+Mod_94: (Merged 3.9) Just Name Lists (3.4) 
+Mod_95: (Merged 3.9) Klingon Shipset 
+Mod_96: (Merged 3.9) Kurogane Expanded (New) 
+Mod_97: (Merged 3.9) L-Cluster Access (3.9) 
+Mod_98: "(Merged 3.9) Leader Traits: All Eligible Species Traits" 
+Mod_99: "(Merged 3.9) Leader Traits: Clone Army - All Leader Classes" 
+Mod_100: "(Merged 3.9) Leader Traits: Scientist AI Assistant Upgrader" 
+Mod_101: (Merged 3.9) Linear Emblems by Pinktails 
+Mod_102: (Merged 3.9) Loading Screen+ 
+Mod_103: (Merged 3.9) Longer Greetings Timer 
+Mod_104: (Merged 3.9) MSI Origin, Portrait, Room and Ships 
+Mod_105: (Merged 3.9) MVG War Exhaustion - Updated + Tweaked 
+Mod_106: (Merged 3.9) Machine & Robot Expansion 
+Mod_107: (Merged 3.9) Machine Shipset 
+Mod_108: "(Merged 3.9) Machine Shipset Add-on: Gigastructural Engineering Ringworlds - Standard" 
+Mod_109: "(Merged 3.9) Machine Shipset Add-on: Shattered Ring and Habitat Appearance" 
+Mod_110: (Merged 3.9) Malon Shipset 
+Mod_111: "(Merged 3.9) Master of Orion: Alkari Shipset" 
+Mod_112: "(Merged 3.9) Master of Orion: Antaran Shipset" 
+Mod_113: "(Merged 3.9) Master of Orion: Bulrathi Shipset" 
+Mod_114: "(Merged 3.9) Master of Orion: Darlok Shipset" 
+Mod_115: "(Merged 3.9) Master of Orion: Elerian Shipset" 
+Mod_116: "(Merged 3.9) Master of Orion: Gnolam Shipset" 
+Mod_117: "(Merged 3.9) Master of Orion: Guardian Shipset" 
+Mod_118: "(Merged 3.9) Master of Orion: Human Shipset" 
+Mod_119: "(Merged 3.9) Master of Orion: Klackon Shipset" 
+Mod_120: "(Merged 3.9) Master of Orion: Meklar Shipset" 
+Mod_121: "(Merged 3.9) Master of Orion: Mrrshan Shipset" 
+Mod_122: "(Merged 3.9) Master of Orion: Pirate Shipset" 
+Mod_123: "(Merged 3.9) Master of Orion: Psilon Shipset" 
+Mod_124: "(Merged 3.9) Master of Orion: Sakkra Shipset" 
+Mod_125: "(Merged 3.9) Master of Orion: Silicoid Shipset" 
+Mod_126: "(Merged 3.9) Master of Orion: Terran Shipset" 
+Mod_127: "(Merged 3.9) Master of Orion: Trilarian Shipset" 
+Mod_128: (Merged 3.9) Merged Leader Levels 
+Mod_129: (Merged 3.9) Minbari shipset 
+Mod_130: (Merged 3.9) More AI Personalities 
+Mod_131: (Merged 3.9) More Events Mod 
+Mod_132: (Merged 3.9) More Human Clothes 
+Mod_133: (Merged 3.9) More Insults 
+Mod_134: (Merged 3.9) More Natural Looking Galaxies 
+Mod_135: (Merged 3.9) More Origins Mod 
+Mod_136: (Merged 3.9) Mucor 
+Mod_137: (Merged 3.9) Narn Shipset 
+Mod_138: (Merged 3.9) No Default Paradox Species - Ironman / Achievement Compatible (Any Version / Any DLC Combinations) 
+Mod_139: (Merged 3.9) No Forced Fiefdom Dissolution 
+Mod_140: (Merged 3.9) No More Exclaves 
+Mod_141: (Merged 3.9) No Preset Countries from Mods 
+Mod_142: (Merged 3.9) No Ugly Room Window Bars 
+Mod_143: (Merged 3.9) Origins Expanded 
+Mod_144: (Merged 3.9) Origins of Civilization for 3.7+ 
+Mod_145: "(Merged 3.9) Penal Colony: Enhanced" 
+Mod_146: (Merged 3.9) Personal Collection Patch 3.9 
+Mod_147: (Merged 3.9) Planetary Diversity 
+Mod_148: (Merged 3.9) Planetary Diversity - Exotic Worlds 
+Mod_149: (Merged 3.9) Planetary Diversity - Gaia Worlds 
+Mod_150: (Merged 3.9) Planetary Diversity - More Arcologies 
+Mod_151: (Merged 3.9) Planetary Diversity - Planetary Habitats 
+Mod_152: (Merged 3.9) Planetary Diversity - Reworked Habitability 
+Mod_153: (Merged 3.9) Planetary Diversity - Reworked Terraforming 
+Mod_154: (Merged 3.9) Planetary Diversity - Shroud Worlds 
+Mod_155: (Merged 3.9) Planetary Diversity - Unique Worlds 
+Mod_156: "(Merged 3.9) Pre-FTL Conquest & Infiltration: Enhanced" 
+Mod_157: (Merged 3.9) Precursor Story Pack 
+Mod_158: (Merged 3.9) Primitive Planet Names Fix 
+Mod_159: "(Merged 3.9) Psionic Ascension: Even in Other Empires" 
+Mod_160: (Merged 3.9) Random Species Names - Updated 
+Mod_161: (Merged 3.9) Real Sol Textures 
+Mod_162: (Merged 3.9) Real Space 3.8 
+Mod_163: (Merged 3.9) Realistic Pirates [3.9.☠] 
+Mod_164: (Merged 3.9) Reasonable Eclipse Tradition 
+Mod_165: "(Merged 3.9) Restored Content: Fungoids" 
+Mod_166: (Merged 3.9) Ringworld Graphical Enhancements 
+Mod_167: (Merged 3.9) Ringworld lights fix 
+Mod_168: (Merged 3.9) Romulan Shipset 
+Mod_169: (Merged 3.9) Segek's Animated Portraits 
+Mod_170: (Merged 3.9) Sensor Expansion 
+Mod_171: "(Merged 3.9) Sins of the Prophets: Stellaris" 
+Mod_172: "(Merged 3.9) Smarter Hyper Relays: Improved AI (shrimpAI)" 
+Mod_173: (Merged 3.9) Smarter Popups 
+Mod_174: (Merged 3.9) Solarpunk 
+Mod_175: (Merged 3.9) Special Leadership Privileges for Battle Thralls & Bio-Trophies 
+Mod_176: "(Merged 3.9) Specialist Subject: Mercatorum" 
+Mod_177: (Merged 3.9) Species Name to Nation Demonym 
+Mod_178: (Merged 3.9) Starfleet NX Era Shipset 
+Mod_179: (Merged 3.9) Starfleet TMP Era Shipset 
+Mod_180: (Merged 3.9) Stargate - Ori Shipset 
+Mod_181: (Merged 3.9) Stellaris Dashboard 
+Mod_182: (Merged 3.9) Stellaris Naval Rebalance 
+Mod_183: (Merged 3.9) Talarian Shipset 
+Mod_184: (Merged 3.9) Technology Ascendant 
+Mod_185: (Merged 3.9) Technology Diffusion 
+Mod_186: (Merged 3.9) TehT's OCD Emblems 
+Mod_187: (Merged 3.9) Terran NX Era Shipset 
+Mod_188: (Merged 3.9) The Great Khan Expanded [3.9.☠] 
+Mod_189: (Merged 3.9) The Stellaris Name Overhaul 
+Mod_190: (Merged 3.9) Tholian Shipset 
+Mod_191: "(Merged 3.9) Tier Numbers: Buildings" 
+Mod_192: "(Merged 3.9) Tier Numbers: Tech" 
+Mod_193: (Merged 3.9) Trace Loading Screens 
+Mod_194: (Merged 3.9) Trait Upgrader and Better AI Trait Modding for 3.x 
+Mod_195: (Merged 3.9) Tuterian Shipset 
+Mod_196: (Merged 3.9) UI Overhaul Dynamic 
+Mod_197: (Merged 3.9) UI Overhaul Dynamic + Complete Colors 
+Mod_198: (Merged 3.9) UI Overhaul Dynamic + Ethics and Civics Alternative 
+Mod_199: (Merged 3.9) UI Overhaul Dynamic + Gigastructural Engineering 
+Mod_200: (Merged 3.9) UI Overhaul Dynamic + Planetary Diversity 
+Mod_201: (Merged 3.9) UI Overhaul Dynamic + Tiny Outliner v2 
+Mod_202: (Merged 3.9) UI Overhaul Dynamic - Dark UI 
+Mod_203: (Merged 3.9) UI Overhaul Dynamic - Extended Topbar 
+Mod_204: (Merged 3.9) UI Overhaul Dynamic - More Tradition Categories (12) 
+Mod_205: "(Merged 3.9) Uncivic: New Mechanics for Vanilla Civics" 
+Mod_206: (Merged 3.9) Unemployment Demotion Time Fix LITE 
+Mod_207: (Merged 3.9) United Fleet Shipset 
+Mod_208: (Merged 3.9) Unlocked War Doctrines 
+Mod_209: (Merged 3.9) Useful Heirs 
+Mod_210: (Merged 3.9) Vanilla-Like Cyrannus Flags 
+Mod_211: (Merged 3.9) Vassals Expanded and Reworked - FunEFork 
+Mod_212: (Merged 3.9) Vengeance Shipset 
+Mod_213: (Merged 3.9) Venture Politics 
+Mod_214: (Merged 3.9) Viable Feudalism and Imperialism - Empire Federation 
+Mod_215: (Merged 3.9) Void Dwellers Expanded 3+ 
+Mod_216: (Merged 3.9) Vorlon Shipset 
+Mod_217: (Merged 3.9) Vulcan Shipset 
+Mod_218: (Merged 3.9) We Require Borders 
+Mod_219: (Merged 3.9) Worthy Ascension Perks for 3.8.* 
+Mod_220: (Merged 3.9) Xenos' Mod Dependency 
+Mod_221: (Merged 3.9) Xindi Shipset 
+Mod_222: (Merged 3.9) Young Heirs 
+Mod_223: (Merged 3.9) Yridian Shipset 
+Mod_224: (Merged 3.9) Zellith's Habitat Demolition 
+Mod_225: (Merged 3.9) [3.8] Claims Decay - Dynamic Diplomacy 
+Mod_226: (Merged 3.9) [3.8] Loyal Subjects Have Nothing to Fear (From the Colossus) 
+Mod_227: (Merged 3.9) [v1.0] Insults and Injuries 
+Mod_228: (Merged 3.9) centauri shipset 
+Mod_229: (Merged 3.9) ~~Ariphaos Unofficial Patch (3.9) 
+Mod_230: (Merged 3.9) 明日方舟船模Arknights Shipset 
+Mod_231: IronyModManager_(Merged)_3.9 
+ChecksumStatus: Modified 

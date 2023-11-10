@@ -1,0 +1,115 @@
+[02:57:29][gfx_dx9.cpp:4479]: Loading settings for adapter -1, fullscreen=0, multisample=15
+[02:57:30][gfx_dx9.cpp:4520]: Graphic Adapters: 
+[02:57:30][gfx_dx9.cpp:4528]: 	0: NVIDIA GeForce RTX 2060
+[02:57:30][gfx_dx9.cpp:4528]: 	1: NVIDIA GeForce RTX 2060
+[02:57:30][gfx_dx9.cpp:4550]: Using Adapter [0] to check for multi-sampling support:
+[02:57:30][gfx_dx9.cpp:4573]: Using Adapter [0]:
+[02:57:30][gfx_dx9.cpp:4584]: Succeeded to create a device [D3DCREATE_HARDWARE_VERTEXPROCESSING].
+[02:57:30][gfx_dx9.cpp:4634]: Graphics device: NVIDIA GeForce RTX 2060
+[02:57:30][gfx_dx9.cpp:4635]: Graphics driver: nvldumdx.dll
+[02:57:30][gfx_dx9.cpp:4636]: Driver version: 3742
+[02:57:30][gfx_dx9.cpp:4651]: 
+
+
+Dumping all gfx info:
+DeviceIdentifier:	{D7B71E3E-5C48-11CF-6C55-6D000EC2D235}
+VendorId:	4318
+DeviceId:	7944
+SubSysId:	543307842
+Revision:	161
+DriverVersion.HighPart:	2031616
+DriverVersion.LowPart:	986782
+
+
+[02:57:30][gfx_dx9.cpp:4674]: Instancing supported.
+[02:57:30][gfx_dx9.cpp:4724]: Video memory amount: 4095MB
+[02:57:30][gfx_dx9.cpp:4725]: MaxSimultaneousTextures: 8
+[02:57:30][gfx_dx9.cpp:4726]: MaxVertexBlendMatrices: 4
+[02:57:30][gfx_dx9.cpp:4727]: MaxVertexBlendMatrixIndex: 8
+[02:57:30][gfx_dx9.cpp:4728]: MaxSimultaneousTextures: 8
+[02:57:30][gfx_dx9.cpp:4729]: MaxTextureBlendStages: 8
+[02:57:30][gfx_dx9.cpp:4730]: MaxTextureWidth: 16384
+[02:57:30][gfx_dx9.cpp:4731]: MaxTextureHeight: 16384
+[02:57:30][gfx_dx9.cpp:4734]: Vertex Shader version: 3.0
+[02:57:30][gfx_dx9.cpp:4740]: Pixel Shader version: 3.0
+[02:57:30][graphicssettings.cpp:165]: 	2 samples supported.
+[02:57:30][graphicssettings.cpp:165]: 	4 samples supported.
+[02:57:30][graphicssettings.cpp:165]: 	8 samples supported.
+[02:57:30][graphicssettings.cpp:201]: Support for Anisotropic filtering found.
+[02:57:30][graphicssettings.cpp:205]: 	Max Anisotropic filtering supported: 16
+[02:57:30][graphicssettings.cpp:206]: 	Anisotropic filtering set to: 16
+[02:58:00][gfx_dx11.cpp:3727]: GetGraphicsSettings for Adapter: 0
+[02:58:00][gfx_dx11.cpp:3760]: Found Adapter: NVIDIA GeForce RTX 2060
+[02:58:00][gfx_dx11.cpp:3786]: Using Adapter [0] to check for multi-sampling support:
+[02:58:00][gfx_dx11.cpp:3824]: Found available multisampling mode: 2 at Quality: 0
+[02:58:00][gfx_dx11.cpp:3824]: Found available multisampling mode: 4 at Quality: 0
+[02:58:00][gfx_dx11.cpp:3824]: Found available multisampling mode: 8 at Quality: 0
+[02:58:00][graphicssettings.cpp:165]: 	2 samples supported.
+[02:58:00][graphicssettings.cpp:165]: 	4 samples supported.
+[02:58:00][graphicssettings.cpp:165]: 	8 samples supported.
+[02:58:00][graphicssettings.cpp:201]: Support for Anisotropic filtering found.
+[02:58:00][graphicssettings.cpp:205]: 	Max Anisotropic filtering supported: 16
+[02:58:00][graphicssettings.cpp:206]: 	Anisotropic filtering set to: 16
+[02:58:00][pdx_audio_sdl.cpp:111]: [0] Audio device: Áudio Digital (S/PDIF) (2- High Definition Audio Device)
+[02:58:00][pdx_audio_sdl.cpp:111]: [1] Audio device: PHL 242V8 (NVIDIA High Definition Audio)
+[02:58:00][pdx_audio_sdl.cpp:111]: [2] Audio device: Alto-falantes (2- USB Audio Device)
+[02:58:00][pdx_audio_sdl.cpp:118]: [0] Audio driver: wasapi
+[02:58:00][pdx_audio_sdl.cpp:118]: [1] Audio driver: directsound
+[02:58:00][pdx_audio_sdl.cpp:118]: [2] Audio driver: winmm
+[02:58:00][pdx_audio_sdl.cpp:118]: [3] Audio driver: disk
+[02:58:00][pdx_audio_sdl.cpp:118]: [4] Audio driver: dummy
+[02:58:00][pdx_audio_sdl.cpp:143]: Current audio driver: wasapi
+[02:58:00][pdx_audio_sdl.cpp:150]: 
+	Frequency: 44100
+	Format: 32784
+	Channels: 2
+	Samples: 1024
+[02:58:02][graphicssettings.cpp:774]: Using multisampling: 8
+[02:58:02][graphics.cpp:800]: Creating device with: HARDWARE_VERTEXPROCESSING
+	Fullscreen=no
+	Resolution=1920x1080
+[02:58:02][graphicssettings.cpp:741]: Usable res: 640 480 60
+[02:58:02][graphicssettings.cpp:741]: Usable res: 640 480 72
+[02:58:02][graphicssettings.cpp:741]: Usable res: 640 480 75
+[02:58:02][graphicssettings.cpp:741]: Usable res: 640 480 59
+[02:58:02][graphicssettings.cpp:741]: Usable res: 720 480 60
+[02:58:02][graphicssettings.cpp:741]: Usable res: 720 480 59
+[02:58:02][graphicssettings.cpp:741]: Usable res: 720 576 50
+[02:58:02][graphicssettings.cpp:741]: Usable res: 800 600 75
+[02:58:02][graphicssettings.cpp:741]: Usable res: 800 600 56
+[02:58:02][graphicssettings.cpp:741]: Usable res: 800 600 60
+[02:58:02][graphicssettings.cpp:741]: Usable res: 800 600 72
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1024 768 60
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1024 768 70
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1024 768 75
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1152 864 59
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1176 664 50
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1176 664 60
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1176 664 59
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1280 720 50
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1280 720 60
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1280 720 59
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1280 768 59
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1280 800 59
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1280 960 60
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1280 1024 60
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1280 1024 75
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1360 768 59
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1366 768 59
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1440 900 59
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1440 1080 50
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1440 1080 60
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1440 1080 59
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1440 1080 74
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1600 900 59
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1600 1024 59
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1680 1050 59
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1920 1080 50
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1920 1080 60
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1920 1080 59
+[02:58:02][graphicssettings.cpp:741]: Usable res: 1920 1080 74
+[02:58:02][graphicssettings.cpp:741]: Usable res: 3840 2160 50
+[02:58:02][graphicssettings.cpp:741]: Usable res: 3840 2160 60
+[02:58:02][graphicssettings.cpp:741]: Usable res: 3840 2160 59
+[02:58:02][graphicssettings.cpp:741]: Usable res: 3840 2160 74
+[02:58:02][graphics.cpp:857]: Done creating device.
